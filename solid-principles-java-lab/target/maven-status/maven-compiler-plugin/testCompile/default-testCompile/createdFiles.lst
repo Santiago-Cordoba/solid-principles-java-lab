@@ -1,0 +1,5 @@
+com/example/solid/srp/SRPTest.class
+com/example/solid/isp/ISPTest.class
+com/example/solid/lsp/LSPTest.class
+com/example/solid/dip/DIPTest.class
+com/example/solid/ocp/OCPTest.class
