@@ -100,4 +100,8 @@ src/
 ### Ejecutar pruebas
 ```bash
 mvn test
+```
+<img width="1874" height="962" alt="image" src="https://github.com/user-attachments/assets/572b978c-3a29-4c32-a2ae-ad765f657f80" />
+
+
 
