@@ -23,10 +23,9 @@ Ejemplo:
 Las clases están abiertas para extensión, pero cerradas para modificación.
 
 Ejemplo:
-- `Shape`
-- `Circle`
-- `Rectangle`
-- `AreaCalculator`
+- `DiscountStrategy`
+- `VipDiscount`
+- `DiscountCalculator`
 
 ---
 
@@ -34,9 +33,9 @@ Ejemplo:
 Las subclases pueden sustituir a sus clases base sin alterar el comportamiento esperado.
 
 Ejemplo:
-- `Bird`
-- `FlyingBird`
-- `Sparrow`
+- `Drivable`
+- `ElectricCar`
+- `GasolineCar`
 
 ---
 
@@ -45,9 +44,9 @@ Los clientes no deben depender de interfaces que no usan.
 
 Ejemplo:
 - `Workable`
+- `Manager`
 - `Eatable`
-- `HumanWorker`
-- `RobotWorker`
+- `Developer`
 
 ---
 
@@ -55,9 +54,9 @@ Ejemplo:
 Los módulos de alto nivel no deben depender de módulos de bajo nivel, sino de abstracciones.
 
 Ejemplo:
-- `MessageService`
-- `EmailService`
-- `Notification`
+- `Database`
+- `MySQLDatabase`
+- `MongoDatabase`
 
 ---
 
