@@ -70,6 +70,8 @@ Ejemplo:
 ---
 
 ## 📂 Estructura del Proyecto
+
+```text
 src/
 ├── main/
 │   └── java/
@@ -92,6 +94,7 @@ src/
                     ├── lsp/
                     ├── isp/
                     └── dip/
+```
 
 
 ### Ejecutar pruebas
