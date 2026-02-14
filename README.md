@@ -70,4 +70,22 @@ Ejemplo:
 ---
 
 ## 📂 Estructura del Proyecto
+src/
+├── main/java/com/example/solid/
+│ ├── srp/
+│ ├── ocp/
+│ ├── lsp/
+│ ├── isp/
+│ └── dip/
+│
+└── test/java/com/example/solid/
+├── srp/
+├── ocp/
+├── lsp/
+├── isp/
+└── dip/
+
+### Ejecutar pruebas
+```bash
+mvn test
 
